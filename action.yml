@@ -1,4 +1,4 @@
-name: slack-webhook
+name: send-pretty-slack-message
 description: send pretty slack message
 inputs:
   message:
